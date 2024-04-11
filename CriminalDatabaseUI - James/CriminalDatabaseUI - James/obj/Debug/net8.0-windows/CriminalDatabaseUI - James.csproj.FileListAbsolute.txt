@@ -1,0 +1,24 @@
+C:\Users\spart\source\repos\CriminalDatabaseUI - James\CriminalDatabaseUI - James\bin\Debug\net8.0-windows\CriminalDatabaseUI - James.exe
+C:\Users\spart\source\repos\CriminalDatabaseUI - James\CriminalDatabaseUI - James\bin\Debug\net8.0-windows\CriminalDatabaseUI - James.deps.json
+C:\Users\spart\source\repos\CriminalDatabaseUI - James\CriminalDatabaseUI - James\bin\Debug\net8.0-windows\CriminalDatabaseUI - James.runtimeconfig.json
+C:\Users\spart\source\repos\CriminalDatabaseUI - James\CriminalDatabaseUI - James\bin\Debug\net8.0-windows\CriminalDatabaseUI - James.dll
+C:\Users\spart\source\repos\CriminalDatabaseUI - James\CriminalDatabaseUI - James\bin\Debug\net8.0-windows\CriminalDatabaseUI - James.pdb
+C:\Users\spart\source\repos\CriminalDatabaseUI - James\CriminalDatabaseUI - James\bin\Debug\net8.0-windows\System.Data.SqlClient.dll
+C:\Users\spart\source\repos\CriminalDatabaseUI - James\CriminalDatabaseUI - James\bin\Debug\net8.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\spart\source\repos\CriminalDatabaseUI - James\CriminalDatabaseUI - James\bin\Debug\net8.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\spart\source\repos\CriminalDatabaseUI - James\CriminalDatabaseUI - James\bin\Debug\net8.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\spart\source\repos\CriminalDatabaseUI - James\CriminalDatabaseUI - James\bin\Debug\net8.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\spart\source\repos\CriminalDatabaseUI - James\CriminalDatabaseUI - James\bin\Debug\net8.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\spart\source\repos\CriminalDatabaseUI - James\CriminalDatabaseUI - James\obj\Debug\net8.0-windows\CriminalDatabaseUI - James.csproj.AssemblyReference.cache
+C:\Users\spart\source\repos\CriminalDatabaseUI - James\CriminalDatabaseUI - James\obj\Debug\net8.0-windows\CriminalDatabaseUI___James.Form1.resources
+C:\Users\spart\source\repos\CriminalDatabaseUI - James\CriminalDatabaseUI - James\obj\Debug\net8.0-windows\CriminalDatabaseUI - James.csproj.GenerateResource.cache
+C:\Users\spart\source\repos\CriminalDatabaseUI - James\CriminalDatabaseUI - James\obj\Debug\net8.0-windows\CriminalDatabaseUI - James.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\spart\source\repos\CriminalDatabaseUI - James\CriminalDatabaseUI - James\obj\Debug\net8.0-windows\CriminalDatabaseUI - James.AssemblyInfoInputs.cache
+C:\Users\spart\source\repos\CriminalDatabaseUI - James\CriminalDatabaseUI - James\obj\Debug\net8.0-windows\CriminalDatabaseUI - James.AssemblyInfo.cs
+C:\Users\spart\source\repos\CriminalDatabaseUI - James\CriminalDatabaseUI - James\obj\Debug\net8.0-windows\CriminalDatabaseUI - James.csproj.CoreCompileInputs.cache
+C:\Users\spart\source\repos\CriminalDatabaseUI - James\CriminalDatabaseUI - James\obj\Debug\net8.0-windows\Criminal.8D01E114.Up2Date
+C:\Users\spart\source\repos\CriminalDatabaseUI - James\CriminalDatabaseUI - James\obj\Debug\net8.0-windows\CriminalDatabaseUI - James.dll
+C:\Users\spart\source\repos\CriminalDatabaseUI - James\CriminalDatabaseUI - James\obj\Debug\net8.0-windows\refint\CriminalDatabaseUI - James.dll
+C:\Users\spart\source\repos\CriminalDatabaseUI - James\CriminalDatabaseUI - James\obj\Debug\net8.0-windows\CriminalDatabaseUI - James.pdb
+C:\Users\spart\source\repos\CriminalDatabaseUI - James\CriminalDatabaseUI - James\obj\Debug\net8.0-windows\CriminalDatabaseUI - James.genruntimeconfig.cache
+C:\Users\spart\source\repos\CriminalDatabaseUI - James\CriminalDatabaseUI - James\obj\Debug\net8.0-windows\ref\CriminalDatabaseUI - James.dll
